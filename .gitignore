@@ -1,0 +1,9 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset files (optional - you can remove this if you want CSVs visible)
+*.csv
+
+# Ignore temporary system files
+.DS_Store
+Thumbs.db
