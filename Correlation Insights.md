@@ -1,5 +1,7 @@
 Correlation Insights on Customer Churn
 
+![Correlation of Top Features with Churn](correlation_heatmap.png)
+
 The correlation analysis between the top predictive features and churn provides deeper insights into customer behavior:
 
 Age shows a positive correlation (0.29) with churn, indicating that older customers are more likely to leave the bank.
